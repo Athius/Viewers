@@ -313,6 +313,7 @@ Please feel free to suggest or contribute your own recipes.
 
 - [Build for Production](./build-for-production.md)
 - [Static](./static-assets.md)
+- [AWS Cognito (OIDC)](./cognito.md)
 - [Nginx + Image Archive](./nginx--image-archive.md)
 - [User Account Control](./user-account-control.md)
 
